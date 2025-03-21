@@ -7,5 +7,7 @@ Prerrequisitos:
 Entorno de desarrollo, un compilador de C/c++ y extenciones de c.
 
 Nombre: Marvin Juárez
+
 No.Carné: 25001064
+
 Correo: 25001064@galileo.edu
